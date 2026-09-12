@@ -90,7 +90,7 @@
   const saadKhulaiwi = add("سعد", khulaiwiRoot, { fullName: "سعد خليوي" });
   const salemKhulaiwi = add("سالم", khulaiwiRoot, { fullName: "سالم خليوي" });
 
-  addChildren(mutlaqKhulaiwi, ["بدر", "بندر", "احمد", "عبدالله", "علي"]);
+  addChildren(mutlaqKhulaiwi, ["بدر", "بندر", "احمد", "عبدالله", "علي","شاكر"]);
   addChildren(saudKhulaiwi, ["محمد", "خالد", "فيصل", "عبدالعزيز", "صالح", "وليد"]);
   addChildren(saadKhulaiwi, ["نواف", "مطلق"]);
   const mohammedSaad = add("محمد", saadKhulaiwi); add("سعد", mohammedSaad);
