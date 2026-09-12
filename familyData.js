@@ -52,7 +52,7 @@
   add("زيد", fahdMuayed);
   const mohammedFahd = add("محمد", fahdMuayed); addChildren(mohammedFahd, ["فهد", "احمد"]);
   const dhaifAllahFahd = add("ضيف الله", fahdMuayed); add("ماجد", dhaifAllahFahd);
-  addChildren(fahdMuayed, ["مشاري", "عزوز", "كروم"]);
+  addChildren(fahdMuayed, ["مشاري", "عبدالعزيز", "عبدالكريم"]);
 
   const mohsenFuhayd = add("محسن", fuhaydMuayed); addChildren(mohsenFuhayd, ["ممدوح", "مشهور"]);
   add("معيض", fuhaydMuayed);
@@ -91,7 +91,7 @@
   const salemKhulaiwi = add("سالم", khulaiwiRoot, { fullName: "سالم خليوي" });
 
   addChildren(mutlaqKhulaiwi, ["بدر", "بندر", "احمد", "عبدالله", "علي"]);
-  addChildren(saudKhulaiwi, ["محمد", "خالد", "فيصل", "عزوز", "صالح", "وليد"]);
+  addChildren(saudKhulaiwi, ["محمد", "خالد", "فيصل", "عبدالعزيز", "صالح", "وليد"]);
   addChildren(saadKhulaiwi, ["نواف", "مطلق"]);
   const mohammedSaad = add("محمد", saadKhulaiwi); add("سعد", mohammedSaad);
   add("فهد", saadKhulaiwi);
