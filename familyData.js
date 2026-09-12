@@ -98,7 +98,7 @@
   addChildren(salemKhulaiwi, ["سلطان", "سطام", "ناصر", "هتان"]);
 
   // الجذر الرابع: عايض. «عايض سالم» هو الاسم الكامل للجذر كما ورد في المصدر.
-  const ayedRoot = add("عايض", null, { fullName: "عايض سالم" });
+  const ayedRoot = add("عايض", null, { fullName: "عايض سالم" deceased: true});
   const muayedAyed = add("معيض", ayedRoot); addChildren(muayedAyed, ["نواف", "عبدالله", "منصور", "مشاري"]);
   const awadhAyed = add("عواض", ayedRoot); addChildren(awadhAyed, ["فارس", "فيصل", "فهد", "سامي", "عبدالعزيز"]);
   const abdullahAyed = add("عبدالله", ayedRoot); add("نايف", abdullahAyed);
